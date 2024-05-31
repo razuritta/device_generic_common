@@ -18,7 +18,7 @@ PRODUCT_PACKAGES := \
     modetest \
     vulkan.intel \
     vulkan.intel_hasvk \
-    vulkan.amd \
+    vulkan.radeon \
     vulkan.virtio \
     libEGL_angle \
     libGLESv1_CM_angle \
